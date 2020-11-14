@@ -495,7 +495,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 211698444}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59c6746b537bee344bd64807da72eefe, type: 3}
+  m_Script: {fileID: 11500000, guid: e975504303376c047b34af1a3bf51ab8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &211698446
@@ -5128,12 +5128,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 211698444}
-        m_MethodName: 
+      - m_Target: {fileID: 211698445}
+        m_MethodName: ShareButtonClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
