@@ -1296,14 +1296,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DepthMenu: {fileID: 1415240871}
   InstantPlacementMenu: {fileID: 2047802673}
-  InstantPlacementPrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
+  InstantPlacementPrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
     type: 3}
   FirstPersonCamera: {fileID: 53379610}
-  GameObjectVerticalPlanePrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
+  GameObjectVerticalPlanePrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
     type: 3}
-  GameObjectHorizontalPlanePrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
+  GameObjectHorizontalPlanePrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
     type: 3}
-  GameObjectPointPrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
+  GameObjectPointPrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
     type: 3}
 --- !u!114 &627916104
 MonoBehaviour:
