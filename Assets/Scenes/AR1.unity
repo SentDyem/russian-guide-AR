@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1429,14 +1429,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DepthMenu: {fileID: 1415240871}
   InstantPlacementMenu: {fileID: 2047802673}
-  InstantPlacementPrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
+  InstantPlacementPrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
     type: 3}
   FirstPersonCamera: {fileID: 53379610}
-  GameObjectVerticalPlanePrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
+  GameObjectVerticalPlanePrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
     type: 3}
-  GameObjectHorizontalPlanePrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
+  GameObjectHorizontalPlanePrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
     type: 3}
-  GameObjectPointPrefab: {fileID: 1158582600877200, guid: aaeb723e7fbbb6b42954008ad58fe1ee,
+  GameObjectPointPrefab: {fileID: 1158582600877200, guid: debfeacff071a5545bc13d229a1ed306,
     type: 3}
 --- !u!114 &627916104
 MonoBehaviour:
